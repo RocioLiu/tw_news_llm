@@ -1,0 +1,20 @@
+# https://github.com/github/gitignore/blob/main/Python.gitignore
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.vscode/
+
+# Unit test / coverage reports
+.pytest_cache/
+
+# data
+data/raw_data/
+data/processed_data/
+data/corpus.json
+
+# scripts
+ori_data_preprocess.py
+ori_run_pretrain_twnewsllm.py
+
+# model checkpoints
+outputs/
