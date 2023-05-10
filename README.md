@@ -1,5 +1,5 @@
 # tw_news_llm
-Parameter-efficient fine-tuning ( [LoRA](https://arxiv.org/abs/2106.09685) ) [bigscience/bloomz-1b7](https://huggingface.co/bigscience/bloomz-1b7) for the news of 27 different Taiwan public sectors.
+Parameter-efficient fine-tuning ( [LoRA](https://arxiv.org/abs/2106.09685) ) [bigscience/bloomz-1b7](https://huggingface.co/bigscience/bloomz-1b7) for the news of 27 different Taiwanese public sectors.
 
 ## Quickstart
 ### Prerequisites
